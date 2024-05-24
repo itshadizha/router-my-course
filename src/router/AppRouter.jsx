@@ -29,7 +29,6 @@ const AppRouter = () => {
             {
               path: "/courses/students",
               element: <Students />,
-            
             },
             {
               path: "/courses/students/details",

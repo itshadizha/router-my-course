@@ -2,9 +2,9 @@ import React from 'react'
 
 const Materials = () => {
   return (
-    <div>
-      materials page
-    </div>
+    <h1>
+      Materials page
+    </h1>
   )
 }
 
